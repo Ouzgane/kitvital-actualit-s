@@ -1,0 +1,117 @@
+{
+  "maj": "2026-11-11T10:47:00Z",
+  "entrees": [
+    {
+      "date": "2026-11-10",
+      "theme": "meteo",
+      "portee": "France",
+      "autorite": "Météo-France",
+      "titre": "Météo : temps agité et pluvieux cette semaine",
+      "resume": "Météo-France prévoit, après la dépression Bruna, l'arrivée de la dépression Charles le jeudi 12 novembre : très fortes pluies au sud d'une ligne Bordeaux Strasbourg, rafales de 60 à 90 km/h. Suivez la carte de vigilance.",
+      "url": "https://meteofrance.com/actualites/meteo-temps-agite-et-pluvieux-cette-semaine",
+      "guide": "tempete"
+    },
+    {
+      "date": "2026-11-04",
+      "theme": "sante",
+      "portee": "France",
+      "autorite": "Santé publique France",
+      "titre": "Infections respiratoires aiguës (grippe, bronchiolite, covid-19). Bulletin du 4 novembre 2026",
+      "resume": "Santé publique France indique une faible circulation de la grippe, du VRS et du covid-19 : indicateurs au niveau de base, sauf la Martinique en épidémie de bronchiolite et l'Île-de-France en phase pré-épidémique.",
+      "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-4-novembre-2026"
+    },
+    {
+      "date": "2026-10-30",
+      "theme": "preparation",
+      "portee": "Union européenne",
+      "autorite": "Commission européenne (protection civile, DG ECHO)",
+      "titre": "Les Européens soutiennent massivement une coopération européenne renforcée en matière de protection civile, selon un nouvel Eurobaromètre",
+      "resume": "Page en anglais, titre traduit. Selon l'Eurobaromètre publié par la Commission, 94 % des Européens estiment que les États membres doivent s'entraider lors d'une catastrophe.",
+      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/europeans-overwhelmingly-support-stronger-eu-civil-protection-cooperation-new-eurobarometer-shows-2026-10-30_en"
+    },
+    {
+      "date": "2026-10-29",
+      "theme": "penurie",
+      "portee": "France",
+      "autorite": "Ministère de la Transition écologique",
+      "titre": "Prix du carburant : un soutien renforcé pour les entreprises de travaux forestiers",
+      "resume": "Le ministère rappelle la mise sur le marché de 10 millions de barils de gazole des stocks stratégiques de l'État, annoncée le 7 octobre, et une aide de 15 centimes par litre de gazole non routier aux entreprises forestières.",
+      "url": "https://www.ecologie.gouv.fr/actualites/prix-du-carburant-soutien-renforce-entreprises-travaux-forestiers"
+    },
+    {
+      "date": "2026-10-28",
+      "theme": "preparation",
+      "portee": "Suisse",
+      "autorite": "Conseil fédéral suisse (Office fédéral de la protection de la population)",
+      "titre": "Transmission moderne de l'alarme à la population : adoption du message par le Conseil fédéral",
+      "resume": "Le Conseil fédéral veut moderniser l'alerte (application Alertswiss, alerte par diffusion cellulaire sur les mobiles, sirènes confiées aux cantons) et demande au Parlement un crédit de 165,4 millions de francs.",
+      "url": "https://www.admin.ch/fr/newnsb/9WlL9j-84f1I",
+      "guide": "etre-alerte"
+    },
+    {
+      "date": "2026-10-26",
+      "theme": "preparation",
+      "portee": "Norvège",
+      "autorite": "Statsforvalteren i Nordland (représentation régionale de l'État norvégien)",
+      "titre": "Semaine de la préparation individuelle 2026 : où trouver l'information quand le réseau est coupé ?",
+      "resume": "Page en norvégien, titre traduit. Pour la semaine nationale de préparation, les communes sont invitées à ouvrir des points d'information, et chacun à garder une radio à piles, à manivelle ou solaire.",
+      "url": "https://www.statsforvalteren.no/nb/nordland/nyheter/2026/10/egenberedskapsuka-2026/"
+    },
+    {
+      "date": "2026-10-24",
+      "theme": "meteo",
+      "portee": "France",
+      "autorite": "Météo-France",
+      "titre": "Retour sur la tempête Austen du 22 au 23 octobre 2026",
+      "resume": "Météo-France publie le bilan de la tempête Austen : rafale maximale de 161 km/h au sémaphore de la pointe du Raz, 135 km/h à Saint-Cast-le-Guildo, 122 km/h dans les terres à Saint-Ségal.",
+      "url": "https://meteofrance.com/actualites/retour-sur-la-tempete-austen-du-22-au-23-octobre-2026",
+      "guide": "tempete"
+    },
+    {
+      "date": "2026-10-23",
+      "theme": "meteo",
+      "portee": "France",
+      "autorite": "Météo-France",
+      "titre": "Tempête Austen, vents violents et pluies sur le nord du pays",
+      "resume": "Météo-France annonce des rafales de 80 à 90 km/h sur le nord-ouest, jusqu'à 120 à 130 km/h sur les côtes de la Manche, et rappelle les consignes de vigilance orange vent : limiter les déplacements, ne pas monter sur les toits.",
+      "url": "https://meteofrance.com/actualites/tempete-austen-vents-violents-ce-vendredi-sur-le-nord-ouest-du-pays",
+      "guide": "tempete"
+    },
+    {
+      "date": "2026-10-23",
+      "theme": "preparation",
+      "portee": "Union européenne",
+      "autorite": "Commission européenne (protection civile, DG ECHO)",
+      "titre": "Le mécanisme de protection civile de l'Union européenne a 25 ans",
+      "resume": "Page en anglais, titre traduit. La Commission rappelle que le mécanisme européen de protection civile a été activé plus de 900 fois depuis 2001.",
+      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en"
+    },
+    {
+      "date": "2026-10-21",
+      "theme": "meteo",
+      "portee": "France",
+      "autorite": "Météo-France",
+      "titre": "Retour sur l'épisode méditerranéen violent des 19 et 20 octobre 2026",
+      "resume": "Météo-France publie le bilan de l'épisode méditerranéen : Haute-Corse en vigilance rouge pluie-inondation le 20 octobre, 640,5 mm à Solenzara dont 538,5 mm en 6 heures, sept départements en orange.",
+      "url": "https://meteofrance.com/retour-sur-lepisode-mediterraneen-violent-des-19-et-20-octobre-2026"
+    },
+    {
+      "date": "2026-10-21",
+      "theme": "preparation",
+      "portee": "Suisse",
+      "autorite": "Conseil fédéral suisse (Office fédéral de la protection de la population)",
+      "titre": "Renforcement des effectifs de la protection civile : le Conseil fédéral met en vigueur la loi et ses dispositions d'exécution pour 2027",
+      "resume": "Le Conseil fédéral met en vigueur au 1er janvier 2027 la révision de la loi sur la protection civile : les civilistes pourront y être affectés. Effectif d'environ 57 000 personnes pour un objectif de 72 000.",
+      "url": "https://www.admin.ch/fr/newnsb/qen4OeBmUdK4"
+    },
+    {
+      "date": "2026-10-13",
+      "theme": "penurie",
+      "portee": "France",
+      "autorite": "Agence nationale de sécurité du médicament et des produits de santé (ANSM)",
+      "titre": "L'ANSM active le plan 2026-2027 de suivi des médicaments et des dispositifs médicaux de l'hiver",
+      "resume": "L'ANSM lance son plan hiver au niveau 1, « veille saisonnière » : 14 molécules sentinelles (environ 180 médicaments, dont paracétamol et amoxicilline) et 79 types de dispositifs médicaux suivis.",
+      "url": "https://ansm.sante.fr/actualites/lansm-active-le-plan-2026-2027-de-suivi-des-medicaments-et-des-dispositifs-medicaux-de-lhiver"
+    }
+  ]
+}

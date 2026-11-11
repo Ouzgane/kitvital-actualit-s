@@ -1,0 +1,26 @@
+{
+  "maj": "2026-11-11T12:02:01Z",
+  "releve": "2026-11-11",
+  "annee": 2026,
+  "valeurs": {},
+  "contexte": {},
+  "actus": {},
+  "analyses": {},
+  "historique": [
+    {
+      "date": "2026-11-11",
+      "global": 65.14,
+      "dimensions": {
+        "guerre-europe": 85.22,
+        "conflits-monde": 86.97,
+        "nucleaire": 89.88,
+        "cyberattaques": 86.6,
+        "terrorisme": 40,
+        "climat": 50,
+        "energie": 57.47,
+        "epidemies": 25
+      }
+    }
+  ],
+  "alerte": null
+}
