@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-13T11:09:48Z",
+  "maj": "2026-11-13T11:14:27Z",
   "entrees": [
     {
       "date": "2026-11-12",
@@ -47,6 +47,16 @@
       "titre": "Infections respiratoires aiguës (grippe, bronchiolite, covid-19). Bulletin du 4 novembre 2026",
       "resume": "Santé publique France indique une faible circulation de la grippe, du VRS et du covid-19 : indicateurs au niveau de base, sauf la Martinique en épidémie de bronchiolite et l'Île-de-France en phase pré-épidémique.",
       "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-4-novembre-2026"
+    },
+    {
+      "date": "2026-11-03",
+      "theme": "preparation",
+      "portee": "Union européenne",
+      "autorite": "Commission européenne (protection civile, DG ECHO)",
+      "titre": "La Commission prend de nouvelles mesures pour préparer les Européens à des risques de crise croissants",
+      "resume": "Page en anglais, titre traduit. La Commission publie des lignes directrices non contraignantes pour aider chacun à tenir seul les trois premiers jours d'une crise, et propose une Journée de la préparation chaque 23 octobre dès 2027.",
+      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en",
+      "guide": "kit-urgence-72h"
     },
     {
       "date": "2026-10-30",
