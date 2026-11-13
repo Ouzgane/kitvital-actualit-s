@@ -1,6 +1,15 @@
 {
-  "maj": "2026-11-13T11:14:27Z",
+  "maj": "2026-11-13T13:02:52Z",
   "entrees": [
+    {
+      "date": "2026-11-12",
+      "theme": "sante",
+      "portee": "Union européenne",
+      "autorite": "Centre européen de prévention et de contrôle des maladies (ECDC)",
+      "titre": "Maladie à virus Ebola : épidémie dans plusieurs pays en 2026",
+      "resume": "Page en anglais, titre traduit. Au 11 novembre, la RDC a déclaré 11 114 cas confirmés dont 5 433 décès ; l'ECDC estime très faible la probabilité d'infection pour les personnes vivant dans l'UE et l'EEE.",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
+    },
     {
       "date": "2026-11-12",
       "theme": "sante",
