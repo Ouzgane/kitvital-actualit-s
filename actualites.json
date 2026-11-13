@@ -1,15 +1,43 @@
 {
-  "maj": "2026-11-11T10:47:00Z",
+  "maj": "2026-11-13T11:09:48Z",
   "entrees": [
     {
-      "date": "2026-11-10",
+      "date": "2026-11-12",
+      "theme": "sante",
+      "portee": "France",
+      "autorite": "Santé publique France",
+      "titre": "Infections respiratoires aiguës (grippe, bronchiolite, covid-19). Bulletin du 12 novembre 2026",
+      "resume": "Santé publique France note une hausse du covid-19, à faible impact sur les soins ; grippe et bronchiolite restent au niveau de base, sauf en Martinique (épidémie de bronchiolite) et en Île-de-France (pré-épidémie).",
+      "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-12-novembre-2026"
+    },
+    {
+      "date": "2026-11-12",
       "theme": "meteo",
       "portee": "France",
       "autorite": "Météo-France",
-      "titre": "Météo : temps agité et pluvieux cette semaine",
-      "resume": "Météo-France prévoit, après la dépression Bruna, l'arrivée de la dépression Charles le jeudi 12 novembre : très fortes pluies au sud d'une ligne Bordeaux Strasbourg, rafales de 60 à 90 km/h. Suivez la carte de vigilance.",
+      "titre": "Météo : temps agité et pluvieux avant une baisse des températures",
+      "resume": "Météo-France annonce avec la dépression Charles des rafales de près de 100 km/h sur les côtes corses et 120 km/h sur le relief, puis des gelées jusqu'à -5 °C localement samedi matin. Suivez la carte de vigilance.",
       "url": "https://meteofrance.com/actualites/meteo-temps-agite-et-pluvieux-cette-semaine",
       "guide": "tempete"
+    },
+    {
+      "date": "2026-11-10",
+      "theme": "preparation",
+      "portee": "Belgique",
+      "autorite": "Centre de crise National (Belgique)",
+      "titre": "\"Prêts. Ensemble\" : comment se mettre à l'abri pendant une situation d'urgence",
+      "resume": "Le Centre de crise consacre les prochaines semaines à la mise à l'abri : rester à l'intérieur jusqu'à l'avis des autorités, fermer portes et fenêtres, couper la ventilation reliée à l'air extérieur, s'installer dans une pièce centrale.",
+      "url": "https://centredecrise.be/fr/newsroom/prets-ensemble-comment-se-mettre-labri-pendant-une-situation-durgence",
+      "guide": "etre-alerte"
+    },
+    {
+      "date": "2026-11-10",
+      "theme": "penurie",
+      "portee": "France",
+      "autorite": "Service-Public.fr (Direction de l'information légale et administrative)",
+      "titre": "Le prix repère de vente de gaz va augmenter de 5,8 % en décembre",
+      "resume": "Le prix repère de vente de gaz augmentera en moyenne de 5,8 % TTC au 1er décembre 2026, à 206,26 € TTC le mégawattheure ; les ménages qui ont une offre à prix fixe ne sont pas concernés.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17956"
     },
     {
       "date": "2026-11-04",
