@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-14T10:49:23Z",
+  "maj": "2026-11-14T10:57:53Z",
   "releve": "2026-11-14",
   "annee": 2026,
   "valeurs": {
@@ -242,6 +242,48 @@
         "source": {
           "titre": "Doomsday Clock 2026 : 85 secondes avant minuit (Bulletin of the Atomic Scientists)",
           "url": "https://thebulletin.org/doomsday-clock/2026-statement/"
+        }
+      }
+    ],
+    "cyberattaques": [
+      {
+        "date": "2026-11-13",
+        "texte": "Une panne de télécommunications oblige à suspendre tous les départs d'avions aux États-Unis de 15 h 54 à 20 h 15, heure de New York ; des milliers de vols sont annulés. Le gouvernement met en cause des routeurs surchargés ; selon la sécurité intérieure, une cyberattaque ne semble pas en cause à ce stade.",
+        "source": {
+          "titre": "Nationwide ground stop lifted after more than 4 hours as Trump administration blames old, overloaded tech (ABC News, 14 novembre 2026)",
+          "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
+        }
+      },
+      {
+        "date": "2026-11-09",
+        "texte": "L'ANSSI détaille l'attaque des 11 et 12 octobre : les contrôleurs de froid d'environ 700 magasins ont été piratés, avec des pertes de marchandises et au moins 15 départs de feu. L'agroalimentaire et de petites centrales hydroélectriques ont aussi été visés.",
+        "source": {
+          "titre": "Campagnes de déstabilisation et sabotage menées contre les intérêts français par l'Iran (ANSSI, 9 novembre 2026)",
+          "url": "https://www.cyber.gouv.fr/actualites/campagnes-de-d%C3%A9stabilisation-et-sabotage-men%C3%A9es-%C3%A0-lencontre-des-int%C3%A9r%C3%AAts-fran%C3%A7ais-par-la-r%C3%A9publique-islamique-diran/"
+        }
+      },
+      {
+        "date": "2026-11-09",
+        "texte": "La France attribue ces attaques à une unité liée aux Gardiens de la révolution iraniens, convoque l'ambassadeur d'Iran et proposera de nouvelles sanctions européennes.",
+        "source": {
+          "titre": "Déclaration d'attribution à l'Iran de cyberattaques visant la France (ministère de l'Europe et des Affaires étrangères, 9 novembre 2026)",
+          "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/declaration-d-attribution-a-l-iran-de-cyberattaques-visant-la-france"
+        }
+      },
+      {
+        "date": "2026-11-02",
+        "texte": "Nouvelle vague dans la nuit du 1er au 2 novembre : des installations frigorifiques sont visées dans 14 pays européens, dont des chambres froides de l'Établissement français du sang, sans conséquence grave selon le ministère de la Santé.",
+        "source": {
+          "titre": "Une seconde vague d'attaques contre les chaînes du froid en Europe (Le Grand Continent, novembre 2026)",
+          "url": "https://legrandcontinent.eu/fr/?p=368598"
+        }
+      },
+      {
+        "date": "2026-03-11",
+        "texte": "L'ANSSI a traité 1 366 incidents en 2025, un niveau stable mais élevé. Elle note la montée d'attaques à motivation géopolitique contre l'énergie, l'eau et les transports.",
+        "source": {
+          "titre": "Panorama de la cybermenace 2025 (ANSSI, 11 mars 2026)",
+          "url": "https://cyber.gouv.fr/actualites/panorama-de-la-cybermenace-2025/"
         }
       }
     ]

@@ -1,6 +1,46 @@
 {
-  "maj": "2026-11-14T05:11:55Z",
+  "maj": "2026-11-14T10:52:23Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-13",
+      "theme": "infrastructures",
+      "portee": "États-Unis",
+      "autorite": "ABC News",
+      "titre": "Levée de l'arrêt des vols dans tout le pays après plus de 4 heures : l'administration Trump met en cause une technologie ancienne et surchargée",
+      "resume": "Page en anglais, titre traduit. Aucun départ d'avion aux États-Unis de 15 h 54 à 20 h 15 (heure de New York) et des milliers de vols annulés ; le gouvernement accuse des routeurs surchargés, une cyberattaque ne semblant pas en cause.",
+      "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-13",
+      "theme": "conflit",
+      "portee": "Moyen-Orient",
+      "autorite": "Euronews",
+      "titre": "Les États-Unis démentent la destruction d'un radar américain à Bahreïn par les Gardiens de la révolution",
+      "resume": "Page en anglais, titre traduit. Les Gardiens de la révolution iraniens affirment avoir détruit un radar américain à Bahreïn ; selon le commandement américain, les deux drones lancés ont été abattus, sans blessé ni dégât.",
+      "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-13",
+      "theme": "conflit",
+      "portee": "Iran",
+      "autorite": "Euronews",
+      "titre": "Des députés iraniens débattent d'un changement de doctrine nucléaire et d'une sortie du traité de non-prolifération",
+      "resume": "Page en anglais, titre traduit. Des députés et l'Assemblée des experts appellent à examiner un retrait du traité ; aucun texte n'a été voté et le ministère des Affaires étrangères dit l'Iran attaché au traité.",
+      "url": "https://www.euronews.com/2026/11/13/iran-mps-debate-possible-shift-in-nuclear-doctrine-and-exit-from-npt"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-13",
+      "theme": "penurie",
+      "portee": "Golfe",
+      "autorite": "ONU Info",
+      "titre": "Conseil de sécurité en direct : le calme fragile du Golfe mis à l'épreuve par les menaces sur la navigation à Ormuz",
+      "resume": "Page en anglais, titre traduit. Le Conseil de sécurité se réunit à la demande de Bahreïn ; selon les données maritimes britanniques, les passages dans le détroit d'Ormuz restent environ 65 % sous leur niveau d'avant-guerre.",
+      "url": "https://news.un.org/en/story/2026/11/1168804"
+    },
     {
       "date": "2026-11-13",
       "theme": "meteo",
@@ -37,6 +77,17 @@
       "titre": "Infections respiratoires aiguës (grippe, bronchiolite, covid-19). Bulletin du 12 novembre 2026",
       "resume": "Santé publique France note une hausse du covid-19, à faible impact sur les soins ; grippe et bronchiolite restent au niveau de base, sauf en Martinique (épidémie de bronchiolite) et en Île-de-France (pré-épidémie).",
       "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-12-novembre-2026"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-11",
+      "theme": "conflit",
+      "portee": "Pays baltes",
+      "autorite": "Euronews",
+      "titre": "« Une nuit agitée et difficile » dans les pays baltes, où des avions de l'OTAN n'ont pas pu abattre un drone",
+      "resume": "Page en anglais, titre traduit. Dans la nuit du 10 au 11 novembre, quatre drones et des dizaines de ballons sont détectés au-dessus des pays baltes ; les trois pays appellent leurs habitants à se mettre à l'abri.",
+      "url": "https://www.euronews.com/2026/11/11/a-restless-and-difficult-night-in-the-baltics-as-nato-fighter-jets-fail-to-shoot-down-dron",
+      "guide": "etre-alerte"
     },
     {
       "date": "2026-11-11",

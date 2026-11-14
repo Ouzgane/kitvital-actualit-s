@@ -2,10 +2,10 @@
 
 Fichier public lu par la page https://kitvital.fr/actualites. Écrit deux fois par jour (vers 6 h et 14 h, heure de Paris) par la veille automatique de KitVital.
 
-- `actualites.json` : les dernières publications officielles (France, Union européenne, pays voisins) sur la préparation aux crises, le risque de conflit, les pénuries, la météo et la santé. Chaque entrée est datée et renvoie à sa page officielle.
+- `actualites.json` : les dernières publications officielles (France, Union européenne, pays voisins) sur la préparation aux crises, le risque de conflit, les pénuries, la météo et la santé. Chaque entrée est datée et renvoie à sa page officielle. Depuis le 14 novembre 2026, le fichier contient aussi, à part (`"nature": "evenement"`), les grands événements du moment rapportés par une institution ou un média de référence, résumés sans commentaire.
 - `a-traiter.md` : ce que la veille propose de changer dans les guides du site.
 
-Méthode et règles : `docs/actualites.md` du dépôt du site. Les textes sont des résumés neutres ; seule la page officielle liée fait foi.
+Méthode et règles : `docs/actualites.md` du dépôt du site. Les textes sont des résumés neutres ; seule la page liée fait foi.
 
 ## Baromètre KitVital : risque de guerre et de catastrophe
 
