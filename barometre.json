@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-14T09:21:19Z",
+  "maj": "2026-11-14T10:49:23Z",
   "releve": "2026-11-14",
   "annee": 2026,
   "valeurs": {
@@ -172,9 +172,9 @@
     "conflits-monde": [
       {
         "date": "2026-11-13",
-        "texte": "Les Gardiens de la révolution iraniens affirment, selon les médias d'État, avoir détruit un radar américain d'alerte avancée à Bahreïn, où stationne la Ve flotte américaine, en riposte à une attaque menée la veille contre une tour de télécommunications dans le sud de l'Iran.",
+        "texte": "Les Gardiens de la révolution iraniens affirment avoir détruit un radar américain d'alerte avancée à Bahreïn, après une attaque contre une tour de télécommunications dans le sud de l'Iran. Washington dément : selon le commandement américain, les deux drones lancés vers Bahreïn ont été abattus, sans blessé ni dégât.",
         "source": {
-          "titre": "Les Gardiens de la révolution revendiquent une frappe contre un radar américain à Bahreïn (Euronews, 13 novembre 2026)",
+          "titre": "Les États-Unis démentent la destruction d'un radar américain à Bahreïn revendiquée par les Gardiens de la révolution (Euronews, 13 novembre 2026)",
           "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
         }
       },
@@ -269,7 +269,7 @@
     },
     "conflits-monde": {
       "date": "2026-11-14",
-      "texte": "Les tensions autour de l'Iran repartent à la hausse : le 13 novembre, les Gardiens de la révolution ont affirmé avoir détruit un radar américain à Bahreïn, après une attaque contre une tour de télécommunications dans le sud de l'Iran, et Donald Trump avait déclaré la veille ne plus avoir besoin d'un accord avec Téhéran. Le détroit d'Ormuz reste presque fermé, avec des passages environ 65 % sous leur niveau d'avant-guerre selon les données citées par l'ONU. Le score ne bouge pas : il repose sur les chiffres annuels de 2025, ceux de 2026 paraîtront à l'été 2027.",
+      "texte": "Les tensions autour de l'Iran repartent à la hausse : le 13 novembre, les Gardiens de la révolution ont affirmé avoir détruit un radar américain à Bahreïn, ce que Washington dément, et Donald Trump avait déclaré la veille ne plus avoir besoin d'un accord avec Téhéran. Le détroit d'Ormuz reste presque fermé, avec des passages environ 65 % sous leur niveau d'avant-guerre selon les données citées par l'ONU. Le score ne bouge pas : il repose sur les chiffres annuels de 2025, ceux de 2026 paraîtront à l'été 2027.",
       "aSurveiller": "Une reprise des frappes entre les États-Unis et l'Iran, ou au contraire un accord rouvrant le détroit d'Ormuz, qui pèserait aussitôt sur l'énergie et les prix."
     },
     "nucleaire": {
