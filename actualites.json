@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-14T10:52:23Z",
+  "maj": "2026-11-14T12:57:28Z",
   "entrees": [
     {
       "nature": "evenement",
@@ -51,6 +51,15 @@
       "url": "https://meteofrance.com/actualites/meteo-temps-agite-et-pluvieux-cette-semaine"
     },
     {
+      "date": "2026-11-13",
+      "theme": "sante",
+      "portee": "Union européenne",
+      "autorite": "Centre européen de prévention et de contrôle des maladies (ECDC)",
+      "titre": "Maladie à virus Ebola : épidémie dans plusieurs pays en 2026",
+      "resume": "Page en anglais, titre traduit. Au 12 novembre, la RDC a déclaré 11 197 cas confirmés dont 5 471 décès ; l'ECDC estime très faible la probabilité d'infection pour les personnes vivant dans l'UE et l'EEE.",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
+    },
+    {
       "date": "2026-11-12",
       "theme": "preparation",
       "portee": "Luxembourg",
@@ -59,15 +68,6 @@
       "resume": "Le Luxembourg invite chacun à vérifier qu'il dispose de comprimés d'iode, distribués gratuitement par les communes, à ne prendre que sur instruction des autorités ; ils ne sont en général pas recommandés après 45 ans.",
       "url": "https://letzprepare.public.lu/fr/actualites/comprimes-disposition.html",
       "guide": "accident-nucleaire-iode"
-    },
-    {
-      "date": "2026-11-12",
-      "theme": "sante",
-      "portee": "Union européenne",
-      "autorite": "Centre européen de prévention et de contrôle des maladies (ECDC)",
-      "titre": "Maladie à virus Ebola : épidémie dans plusieurs pays en 2026",
-      "resume": "Page en anglais, titre traduit. Au 11 novembre, la RDC a déclaré 11 114 cas confirmés dont 5 433 décès ; l'ECDC estime très faible la probabilité d'infection pour les personnes vivant dans l'UE et l'EEE.",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
     },
     {
       "date": "2026-11-12",
