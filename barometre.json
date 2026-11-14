@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-14T05:13:58Z",
+  "maj": "2026-11-14T09:21:19Z",
   "releve": "2026-11-14",
   "annee": 2026,
   "valeurs": {
@@ -172,10 +172,26 @@
     "conflits-monde": [
       {
         "date": "2026-11-13",
+        "texte": "Les Gardiens de la révolution iraniens affirment, selon les médias d'État, avoir détruit un radar américain d'alerte avancée à Bahreïn, où stationne la Ve flotte américaine, en riposte à une attaque menée la veille contre une tour de télécommunications dans le sud de l'Iran.",
+        "source": {
+          "titre": "Les Gardiens de la révolution revendiquent une frappe contre un radar américain à Bahreïn (Euronews, 13 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
+        }
+      },
+      {
+        "date": "2026-11-13",
         "texte": "Le Conseil de sécurité de l'ONU se réunit sur la sécurité dans le Golfe, à la demande de Bahreïn. Selon les données maritimes britanniques (UKMTO), les passages dans le détroit d'Ormuz restent environ 65 % sous leur niveau d'avant-guerre ; octobre a compté le plus d'incidents depuis le début de la guerre.",
         "source": {
           "titre": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount (ONU Info, 13 novembre 2026)",
           "url": "https://news.un.org/en/story/2026/11/1168804"
+        }
+      },
+      {
+        "date": "2026-11-12",
+        "texte": "Donald Trump déclare que Washington n'a plus besoin d'un accord avec l'Iran. Il dit que l'Arabie saoudite, le Qatar, le Koweït, les Émirats et Bahreïn lui ont demandé de reporter des attaques plus larges. Téhéran conditionne toujours une reprise des discussions à la fin du blocus naval et à la levée des sanctions.",
+        "source": {
+          "titre": "Les Gardiens de la révolution revendiquent une frappe contre un radar américain à Bahreïn (Euronews, 13 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
         }
       },
       {
@@ -187,27 +203,45 @@
         }
       },
       {
-        "date": "2026-11-11",
-        "texte": "À Gaza, une frappe aérienne israélienne sur l'hôpital Nasser fait 6 morts et 27 blessés. Le coordonnateur spécial de l'ONU estime que l'escalade met en péril un cessez-le-feu de plus en plus fragile.",
-        "source": {
-          "titre": "Six killed in Israeli airstrike on Gaza's Nasser Hospital (ONU Info, 12 novembre 2026)",
-          "url": "https://news.un.org/en/story/2026/11/1168796"
-        }
-      },
-      {
-        "date": "2026-11-10",
-        "texte": "Le Qatar fait état de progrès dans les discussions entre l'Iran et les États-Unis. Washington suspend pour l'instant de nouvelles frappes mais maintient le blocus naval des ports iraniens, sans cessez-le-feu formel.",
-        "source": {
-          "titre": "Le Qatar voit des progrès dans les discussions entre l'Iran et les États-Unis (Euronews, 10 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting"
-        }
-      },
-      {
         "date": "2026-06-09",
         "texte": "L'UCDP compte 65 conflits impliquant un État en 2025, le plus haut niveau depuis 1946, dont 8 conflits entre États. Environ 244 600 personnes ont été tuées dans des violences organisées.",
         "source": {
           "titre": "UCDP : nombre record de conflits entre États en 2025 (université d'Uppsala, 9 juin 2026)",
           "url": "https://www.uu.se/en/press/press-releases/2026/2026-06-09-ucdp-record-number-of-conflicts-between-states"
+        }
+      }
+    ],
+    "nucleaire": [
+      {
+        "date": "2026-11-13",
+        "texte": "En Iran, des députés plaident pour une révision de la doctrine nucléaire et un retrait du traité de non-prolifération ; le 12 novembre, l'Assemblée des experts a jugé cet examen devenu nécessaire. Aucun texte n'a été voté, et le ministère des Affaires étrangères affirme que l'Iran reste attaché au traité.",
+        "source": {
+          "titre": "Iran MPs debate possible shift in nuclear doctrine and exit from NPT (Euronews, 13 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/13/iran-mps-debate-possible-shift-in-nuclear-doctrine-and-exit-from-npt"
+        }
+      },
+      {
+        "date": "2026-09-08",
+        "texte": "La centrale de Zaporijia, la plus grande d'Europe, occupée par la Russie, est reconnectée au réseau après près de trois semaines sur ses groupes électrogènes de secours.",
+        "source": {
+          "titre": "La centrale nucléaire de Zaporijjia reconnectée au réseau électrique (AFP, 8 septembre 2026)",
+          "url": "https://www.connaissancedesenergies.org/afp/la-centrale-nucleaire-de-zaporijjia-reconnectee-au-reseau-electrique-annonce-laeia-260908"
+        }
+      },
+      {
+        "date": "2026-06-04",
+        "texte": "Selon un rapport de l'AIEA, le manque d'accès aux sites nucléaires iraniens bombardés est une préoccupation de prolifération : le sort d'environ 440 kg d'uranium enrichi à 60 % reste incertain.",
+        "source": {
+          "titre": "Le manque d'accès aux sites nucléaires iraniens, une préoccupation de prolifération (AFP, via Connaissance des énergies, juin 2026)",
+          "url": "https://www.connaissancedesenergies.org/afp/le-manque-dacces-aux-sites-nucleaires-iraniens-est-une-preoccupation-en-matiere-de-proliferation-rapport-de-laiea-consulte-260604"
+        }
+      },
+      {
+        "date": "2026-01-27",
+        "texte": "L'horloge de l'Apocalypse est réglée à 85 secondes avant minuit, quatre secondes de moins qu'en 2025 : jamais elle n'avait été aussi proche.",
+        "source": {
+          "titre": "Doomsday Clock 2026 : 85 secondes avant minuit (Bulletin of the Atomic Scientists)",
+          "url": "https://thebulletin.org/doomsday-clock/2026-statement/"
         }
       }
     ]
@@ -235,18 +269,18 @@
     },
     "conflits-monde": {
       "date": "2026-11-14",
-      "texte": "Le détroit d'Ormuz reste presque fermé : selon les données maritimes citées par l'ONU, les passages sont environ 65 % sous leur niveau d'avant-guerre, et le Conseil de sécurité s'est réuni le 13 novembre. Les discussions entre l'Iran et les États-Unis se poursuivent, sans cessez-le-feu formel. Au Soudan, faute de financement, l'aide alimentaire recule, et à Gaza l'ONU juge le cessez-le-feu de plus en plus fragile. Les chiffres annuels de 2026 ne paraîtront qu'à l'été 2027 : le score reprend ceux de 2025.",
-      "aSurveiller": "Un accord sur la réouverture d'Ormuz détendrait l'énergie et les prix ; une reprise des frappes contre l'Iran ou de nouveaux incidents en mer pèseraient sur les deux."
+      "texte": "Les tensions autour de l'Iran repartent à la hausse : le 13 novembre, les Gardiens de la révolution ont affirmé avoir détruit un radar américain à Bahreïn, après une attaque contre une tour de télécommunications dans le sud de l'Iran, et Donald Trump avait déclaré la veille ne plus avoir besoin d'un accord avec Téhéran. Le détroit d'Ormuz reste presque fermé, avec des passages environ 65 % sous leur niveau d'avant-guerre selon les données citées par l'ONU. Le score ne bouge pas : il repose sur les chiffres annuels de 2025, ceux de 2026 paraîtront à l'été 2027.",
+      "aSurveiller": "Une reprise des frappes entre les États-Unis et l'Iran, ou au contraire un accord rouvrant le détroit d'Ormuz, qui pèserait aussitôt sur l'énergie et les prix."
     },
     "nucleaire": {
       "date": "2026-11-14",
-      "texte": "Aucun fait nouveau n'a été relevé ces derniers jours sur le contrôle des armes ou sur le programme iranien. Les garde-fous restent affaiblis : plus aucun traité ne limite les arsenaux russe et américain depuis février, l'horloge de l'Apocalypse n'a jamais été aussi proche de minuit, et l'AIEA ne peut plus vérifier le stock d'uranium enrichi de l'Iran. La centrale de Zaporijia, à l'arrêt, dépend toujours de lignes électriques fragiles. Le score ne change pas.",
-      "aSurveiller": "Une reprise des négociations sur le contrôle des armes, le retour des inspecteurs de l'AIEA en Iran, et l'alimentation électrique de la centrale de Zaporijia."
+      "texte": "En Iran, des députés et l'Assemblée des experts appellent à examiner un retrait du traité de non-prolifération, sans vote à ce stade ; le ministère des Affaires étrangères affirme que le pays reste attaché au traité. Les garde-fous restent affaiblis : plus aucun traité ne limite les arsenaux russe et américain depuis février, l'horloge de l'Apocalypse n'a jamais été aussi proche de minuit, et l'AIEA ne peut plus vérifier le stock d'uranium enrichi de l'Iran. Le score ne change pas : aucun repère chiffré n'a bougé.",
+      "aSurveiller": "Un vote du Parlement iranien sur le retrait du traité de non-prolifération, le retour des inspecteurs de l'AIEA en Iran, et l'alimentation électrique de la centrale de Zaporijia."
     },
     "cyberattaques": {
       "date": "2026-11-14",
-      "texte": "Aucune nouvelle attaque d'ampleur n'a été relevée en France depuis le 9 novembre, quand la France a attribué à une unité liée aux Gardiens de la révolution iraniens le sabotage des chaînes du froid de quelque 700 magasins en octobre. Ces attaques cherchent à saboter des équipements bien réels, et plus seulement à voler des données. Le score ne change pas : il repose sur les incidents traités par l'ANSSI en 2025. Pour un foyer, l'effet le plus probable reste une panne de service : paiement par carte, téléphone, approvisionnement d'un magasin.",
-      "aSurveiller": "D'éventuelles sanctions européennes après l'attribution des attaques à l'Iran, le bilan de l'exercice national de panne électrique et le Panorama 2026 de l'ANSSI, attendu début 2027."
+      "texte": "Le 13 novembre, une panne de télécommunications a obligé l'aviation civile américaine à suspendre tous les départs du pays pendant plus de quatre heures, avec des milliers de vols annulés ; les autorités disent n'avoir relevé à ce stade aucun signe de cyberattaque et mettent en cause des équipements anciens surchargés. En France, aucune nouvelle attaque d'ampleur n'a été relevée depuis l'attribution à l'Iran, le 9 novembre, du sabotage des chaînes du froid de quelque 700 magasins. Le score ne change pas : il repose sur les incidents traités par l'ANSSI en 2025.",
+      "aSurveiller": "Les conclusions de l'enquête sur la panne américaine, d'éventuelles sanctions européennes après l'attribution des attaques à l'Iran, et le Panorama 2026 de l'ANSSI, attendu début 2027."
     },
     "terrorisme": {
       "date": "2026-11-14",
