@@ -1,11 +1,47 @@
 {
-  "maj": "2026-11-13T11:14:09Z",
-  "releve": "2026-11-13",
+  "maj": "2026-11-14T05:13:58Z",
+  "releve": "2026-11-14",
   "annee": 2026,
-  "valeurs": {},
-  "contexte": {},
+  "valeurs": {
+    "brent": {
+      "v": 96.3,
+      "environ": true,
+      "periode": "janvier à octobre 2026",
+      "source": {
+        "titre": "Prix mensuels du Brent, janvier à octobre 2026 (EIA, via FRED, série MCOILBRENTEU)",
+        "url": "https://fred.stlouisfed.org/data/MCOILBRENTEU"
+      }
+    }
+  },
+  "contexte": {
+    "energie": "Guerre en Iran et détroit d'Ormuz bloqué : baril autour de 96 $ en moyenne de janvier à octobre, stocks de gaz au plus bas depuis plus de dix ans."
+  },
   "actus": {
     "guerre-europe": [
+      {
+        "date": "2026-11-13",
+        "texte": "Réunis à Dublin, les dirigeants de l'Union forment une équipe européenne commune pour les pourparlers de paix sur l'Ukraine : France, Allemagne, Italie, Pologne et Royaume-Uni, avec le Conseil européen, la Commission et l'OTAN. Aucun envoyé spécial unique n'est désigné.",
+        "source": {
+          "titre": "EU leaders bring Italy and Poland into Ukraine peace talks team as Kallas fights for spot (Euronews, 13 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot"
+        }
+      },
+      {
+        "date": "2026-11-12",
+        "texte": "Les émissaires américains Steve Witkoff et Jared Kushner rencontrent Vladimir Poutine à Moscou, sans annonce de cessez-le-feu. Moscou conditionne la participation des Européens aux pourparlers à l'arrêt de leur aide militaire à l'Ukraine.",
+        "source": {
+          "titre": "Russia plays down peace talks with Europe after Witkoff raises hopes of breakthrough (Euronews, 12 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/12/russia-plays-down-peace-talks-with-europe-after-witkoff-raises-hopes-of-breakthrough"
+        }
+      },
+      {
+        "date": "2026-11-11",
+        "texte": "Dans la nuit du 10 au 11 novembre, quatre drones et des dizaines de ballons sont détectés au-dessus des pays baltes ; l'un des drones franchit brièvement l'espace aérien polonais. Les trois pays baltes appellent leurs habitants à se mettre à l'abri.",
+        "source": {
+          "titre": "« A restless and difficult night » in the Baltics as NATO fighter jets fail to shoot down drone (Euronews, 11 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/11/a-restless-and-difficult-night-in-the-baltics-as-nato-fighter-jets-fail-to-shoot-down-dron"
+        }
+      },
       {
         "date": "2026-11-11",
         "texte": "Les pourparlers d'Abou Dhabi entre Ukrainiens, Russes et Américains s'achèvent sur un accord de principe pour un important échange de prisonniers, environ 1 000 de chaque côté, peut-être 1 500. Moscou refuse un cessez-le-feu immédiat.",
@@ -15,44 +51,20 @@
         }
       },
       {
-        "date": "2026-11-10",
-        "texte": "Le président ukrainien accuse la Russie de viser les ponts et le réseau électrique du pays.",
-        "source": {
-          "titre": "Guerre en Ukraine : selon Washington, Kyiv et Moscou feraient preuve d'une « légère flexibilité territoriale » (Euronews, 10 novembre 2026)",
-          "url": "https://fr.euronews.com/2026/11/10/guerre-en-ukraine-kyiv-et-moscou-montreraient-une-legere-flexibilite-territoriale-selon-wa"
-        }
-      },
-      {
         "date": "2026-10-16",
         "texte": "La mission de l'ONU compte 328 civils tués et 2 105 blessés en Ukraine en septembre, 85 % de victimes de plus qu'en septembre 2025. De janvier à septembre, 2 570 civils ont été tués : déjà plus que sur toute l'année 2025.",
         "source": {
           "titre": "Ukraine : 2 570 civils tués de janvier à septembre 2026, selon la mission de l'ONU (Stars and Stripes, 16 octobre 2026)",
           "url": "https://www.stripes.com/theaters/europe/2026-10-16/ukraine-civilian-casualties-rise-23173114.html"
         }
-      },
-      {
-        "date": "2026-09-01",
-        "texte": "L'Allemagne tient la Russie pour responsable d'une tentative d'attaque au drone chargé d'explosifs, début août, près d'avions-cargos ukrainiens à l'aéroport de Leipzig. La France convoque le chargé d'affaires russe.",
-        "source": {
-          "titre": "Attaque au drone à l'aéroport de Leipzig : l'Allemagne juge la Russie responsable (Toute l'Europe)",
-          "url": "https://www.touteleurope.eu/?p=316064"
-        }
-      },
-      {
-        "date": "2026-08-13",
-        "texte": "En juillet, la mission de l'ONU vérifie 437 civils tués et 2 610 blessés en Ukraine : le mois le plus meurtrier depuis mai 2022.",
-        "source": {
-          "titre": "Protection des civils, point de juillet 2026 (mission de l'ONU en Ukraine)",
-          "url": "https://ukraine.un.org/en/320972-protection-civilians-armed-conflict-%E2%80%94-july-2026"
-        }
       }
     ],
     "climat": [
       {
-        "date": "2026-11-12",
-        "texte": "Météo-France annonce avec la dépression Charles un temps agité sur le sud du pays et la Corse : rafales à près de 100 km/h sur les côtes corses et 120 km/h sur le relief, puis des gelées jusqu'à -5 °C localement samedi matin.",
+        "date": "2026-11-13",
+        "texte": "Météo-France prévoit pour samedi 14 novembre des gelées parfois fortes sur un large quart nord-est, jusqu'à -5 °C localement sur les premières hauteurs du Massif central, puis une nouvelle perturbation pluvieuse sur l'ensemble du pays dimanche.",
         "source": {
-          "titre": "Météo : temps agité et pluvieux avant une baisse des températures (Météo-France, 12 novembre 2026)",
+          "titre": "Météo du week-end : plus frais et sec au nord et retour des pluies au sud (Météo-France, 13 novembre 2026)",
           "url": "https://meteofrance.com/actualites/meteo-temps-agite-et-pluvieux-cette-semaine"
         }
       },
@@ -107,19 +119,19 @@
         }
       },
       {
+        "date": "2026-11-04",
+        "texte": "Selon les données de l'EIA publiées par la Réserve fédérale de Saint-Louis, le Brent a atteint 123,93 $ en moyenne en octobre, son plus haut de l'année. De janvier à octobre 2026, la moyenne des prix mensuels est d'environ 96 $.",
+        "source": {
+          "titre": "Prix mensuels du Brent, janvier à octobre 2026 (EIA, via FRED, série MCOILBRENTEU)",
+          "url": "https://fred.stlouisfed.org/data/MCOILBRENTEU"
+        }
+      },
+      {
         "date": "2026-11-02",
         "texte": "Au 1er novembre, les stocks de gaz de l'Union sont remplis à près de 75 %, ceux de l'Allemagne à 61,5 %. Le prix du gaz européen a dépassé 100 € le mégawattheure pour la première fois depuis quatre ans. Berlin assure que l'approvisionnement est garanti pour l'hiver.",
         "source": {
           "titre": "Gaz : l'Allemagne assure être prête pour l'hiver malgré des réserves limitées (AFP, via Connaissance des énergies, 2 novembre 2026)",
           "url": "https://www.connaissancedesenergies.org/afp/gaz-lallemagne-assure-etre-prete-pour-lhiver-malgre-des-reserves-limitees-261102"
-        }
-      },
-      {
-        "date": "2026-10-28",
-        "texte": "Le Brent atteint 114 $ en moyenne en septembre ; sur janvier à septembre, la moyenne dépasse 93 $, la plus élevée depuis 2022.",
-        "source": {
-          "titre": "Guerre en Iran : quels bouleversements pour les marchés pétroliers ? (IRIS, 28 octobre 2026)",
-          "url": "https://www.iris-france.org/guerre-en-iran-et-tensions-au-moyen-orient-quels-bouleversements-pour-les-marches-petroliers/"
         }
       }
     ],
@@ -134,18 +146,18 @@
       },
       {
         "date": "2026-11-12",
-        "texte": "L'OMS rappelle que cette épidémie, la plus importante jamais enregistrée en RDC, est classée urgence de santé publique de portée internationale, avec des cas dans cinq pays : RDC, Ouganda, France, Kenya et Nigeria.",
-        "source": {
-          "titre": "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak (OMS, 12 novembre 2026)",
-          "url": "https://www.who.int/news-room/events/detail/2026/11/12/default-calendar/who-health-emergencies-epi-win-webinar-update-on-the-current-ebola-bundibugyo-virus-disease-outbreak"
-        }
-      },
-      {
-        "date": "2026-11-12",
         "texte": "Santé publique France : le covid-19 est en hausse, avec un faible impact sur les soins ; la grippe et la bronchiolite restent à leur niveau de base, sauf la bronchiolite en Martinique (épidémie) et en Île-de-France (pré-épidémie).",
         "source": {
           "titre": "Infections respiratoires aiguës, bulletin du 12 novembre 2026 (Santé publique France)",
           "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-12-novembre-2026"
+        }
+      },
+      {
+        "date": "2026-11-11",
+        "texte": "L'OMS maintient l'urgence de santé publique de portée internationale : près de 11 000 cas confirmés et plus de 5 300 décès en RDC, dans huit provinces, avec des signes de ralentissement dans certaines zones. Au Kenya, le dernier malade est sorti, ouvrant un délai de 42 jours avant la fin déclarée de l'épidémie.",
+        "source": {
+          "titre": "Allocution du directeur général de l'OMS au point d'information des États membres sur Ebola en RDC (OMS, 11 novembre 2026)",
+          "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026"
         }
       },
       {
@@ -156,28 +168,90 @@
           "url": "https://www.ecdc.europa.eu/en/epipulse_event/2121"
         }
       }
+    ],
+    "conflits-monde": [
+      {
+        "date": "2026-11-13",
+        "texte": "Le Conseil de sécurité de l'ONU se réunit sur la sécurité dans le Golfe, à la demande de Bahreïn. Selon les données maritimes britanniques (UKMTO), les passages dans le détroit d'Ormuz restent environ 65 % sous leur niveau d'avant-guerre ; octobre a compté le plus d'incidents depuis le début de la guerre.",
+        "source": {
+          "titre": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount (ONU Info, 13 novembre 2026)",
+          "url": "https://news.un.org/en/story/2026/11/1168804"
+        }
+      },
+      {
+        "date": "2026-11-12",
+        "texte": "Au Soudan, faute de financement, le Programme alimentaire mondial ne nourrit plus qu'un peu plus de 3 millions de personnes, contre plus de 4 millions en août. Il demande 520 millions de dollars pour aider 5,4 millions de personnes jusqu'en avril 2027.",
+        "source": {
+          "titre": "Aid is the 'only hope' for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis (ONU Info, 12 novembre 2026)",
+          "url": "https://news.un.org/en/story/2026/11/1168793"
+        }
+      },
+      {
+        "date": "2026-11-11",
+        "texte": "À Gaza, une frappe aérienne israélienne sur l'hôpital Nasser fait 6 morts et 27 blessés. Le coordonnateur spécial de l'ONU estime que l'escalade met en péril un cessez-le-feu de plus en plus fragile.",
+        "source": {
+          "titre": "Six killed in Israeli airstrike on Gaza's Nasser Hospital (ONU Info, 12 novembre 2026)",
+          "url": "https://news.un.org/en/story/2026/11/1168796"
+        }
+      },
+      {
+        "date": "2026-11-10",
+        "texte": "Le Qatar fait état de progrès dans les discussions entre l'Iran et les États-Unis. Washington suspend pour l'instant de nouvelles frappes mais maintient le blocus naval des ports iraniens, sans cessez-le-feu formel.",
+        "source": {
+          "titre": "Le Qatar voit des progrès dans les discussions entre l'Iran et les États-Unis (Euronews, 10 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting"
+        }
+      },
+      {
+        "date": "2026-06-09",
+        "texte": "L'UCDP compte 65 conflits impliquant un État en 2025, le plus haut niveau depuis 1946, dont 8 conflits entre États. Environ 244 600 personnes ont été tuées dans des violences organisées.",
+        "source": {
+          "titre": "UCDP : nombre record de conflits entre États en 2025 (université d'Uppsala, 9 juin 2026)",
+          "url": "https://www.uu.se/en/press/press-releases/2026/2026-06-09-ucdp-record-number-of-conflicts-between-states"
+        }
+      }
     ]
   },
   "analyses": {
     "guerre-europe": {
-      "date": "2026-11-13",
-      "texte": "Les pourparlers d'Abou Dhabi des 10 et 11 novembre se sont conclus sur un accord de principe pour un important échange de prisonniers, sans cessez-le-feu : Moscou refuse un arrêt immédiat des combats. Les frappes russes visent toujours les ponts et le réseau électrique ukrainiens à l'entrée de l'hiver, et 2026 est déjà l'année la plus meurtrière pour les civils depuis 2022. Le score ne change pas : la guerre reste ouverte et le bilan de l'ONU pour octobre n'est pas encore paru.",
-      "aSurveiller": "Les suites de la rencontre prévue le 12 novembre à Moscou entre les émissaires américains et le président russe, l'échange de prisonniers annoncé et le bilan des victimes civiles d'octobre publié par l'ONU."
+      "date": "2026-11-14",
+      "texte": "Après l'accord de principe d'Abou Dhabi sur un échange de prisonniers, les émissaires américains ont rencontré le président russe à Moscou le 12 novembre, sans cessez-le-feu ; le 13, les dirigeants européens réunis à Dublin ont formé une équipe commune pour les négociations. Dans la nuit du 10 au 11, des drones et des ballons ont survolé les pays baltes, qui ont demandé à leurs habitants de se mettre à l'abri. Le score ne change pas : la guerre reste ouverte et le bilan de l'ONU pour octobre n'est pas encore paru.",
+      "aSurveiller": "Un cessez-le-feu effectif, qui ferait baisser le palier de la guerre en Ukraine, l'échange de prisonniers annoncé et le bilan des victimes civiles d'octobre publié par la mission de l'ONU."
     },
     "climat": {
-      "date": "2026-11-13",
-      "texte": "La dépression Charles a apporté vent fort et pluie sur le sud du pays et la Corse, avant une baisse des températures et les premières gelées. La conférence des Nations unies sur le climat se tient à Antalya jusqu'au 20 novembre. Selon Copernicus, 2026 sera très probablement la première année au-dessus de 1,5 °C de réchauffement ; le score ne change pas. Les tempêtes et les pluies d'automne et d'hiver restent le risque le plus probable pour un foyer français dans les semaines qui viennent.",
-      "aSurveiller": "Les vigilances orange et rouge de Météo-France cet hiver (vent, pluie-inondation, neige-verglas), et l'issue de la COP31 le 20 novembre."
+      "date": "2026-11-14",
+      "texte": "Le temps devient plus frais : Météo-France prévoit des gelées parfois fortes samedi sur le nord-est, jusqu'à -5 °C localement, puis une nouvelle perturbation pluvieuse dimanche sur tout le pays. La COP31 se poursuit à Antalya, avec son segment de haut niveau prévu du 16 au 19 novembre. Selon Copernicus, 2026 sera très probablement la première année au-dessus de 1,5 °C ; le score ne change pas. Les tempêtes et les pluies d'automne et d'hiver restent le risque le plus probable pour un foyer français dans les semaines qui viennent.",
+      "aSurveiller": "Les vigilances orange et rouge de Météo-France (vent, pluie-inondation, neige-verglas) et l'issue de la COP31, dont la clôture est prévue le 20 novembre."
     },
     "energie": {
-      "date": "2026-11-13",
-      "texte": "L'Europe entre dans l'hiver avec des stocks de gaz remplis à près de 75 % au 1er novembre, les plus bas depuis plus de dix ans, et un pétrole cher depuis le début de la guerre au Moyen-Orient. En France, le prix repère du gaz augmentera de 5,8 % au 1er décembre, et le 13 novembre au matin 9 % des stations manquaient d'au moins un carburant, 19 % dans le Grand Est. Aucune pénurie n'est déclarée par les autorités et les prix alimentaires mondiaux se stabilisent à un niveau haut. Le score ne change pas : aucun repère chiffré n'a bougé.",
+      "date": "2026-11-14",
+      "texte": "Le pétrole a reflué, à 92 $ le baril le 11 novembre contre près de 124 $ en moyenne en octobre, mais sa moyenne depuis janvier atteint environ 96 $ : c'est ce repère, mis à jour, qui fait passer le score du domaine de 57 à 59. Les stocks de gaz de l'Union, à près de 75 % au 1er novembre, restent les plus bas depuis plus de dix ans. En France, 9 % des stations manquaient d'au moins un carburant le 13 novembre au matin, 19 % dans le Grand Est, sans pénurie déclarée par les autorités ; le prix repère du gaz augmentera de 5,8 % au 1er décembre.",
       "aSurveiller": "Les signaux Ecowatt de RTE en cas de vague de froid, la disponibilité des carburants en station et la situation du détroit d'Ormuz."
     },
     "epidemies": {
-      "date": "2026-11-13",
-      "texte": "L'épidémie d'Ebola due au virus Bundibugyo continue de progresser en RDC, avec plus de 11 000 cas confirmés ; au Kenya, sept des neuf malades sont guéris et tous les contacts ont terminé leur quarantaine. L'OMS la classe toujours urgence de santé publique de portée internationale et l'ECDC juge le risque très faible pour les habitants de l'Union : le score ne change pas. En France, le covid-19 est en hausse, tandis que la grippe et la bronchiolite restent à leur niveau de base, sauf la bronchiolite en Martinique et en Île-de-France.",
+      "date": "2026-11-14",
+      "texte": "L'épidémie d'Ebola due au virus Bundibugyo dépasse 11 000 cas confirmés en RDC : l'OMS la maintient en urgence de santé publique de portée internationale et note des signes de ralentissement dans certaines zones, alors que de nouveaux foyers apparaissent ailleurs. Au Kenya, le dernier malade est sorti le 11 novembre. L'ECDC juge le risque très faible pour les habitants de l'Union : le score ne change pas. En France, le covid-19 est en hausse, la grippe et la bronchiolite restent à leur niveau de base, sauf exceptions régionales.",
       "aSurveiller": "Un cas confirmé en Europe en dehors d'une évacuation sanitaire, la levée de l'urgence par l'OMS, et le début des épidémies de grippe et de bronchiolite en France."
+    },
+    "conflits-monde": {
+      "date": "2026-11-14",
+      "texte": "Le détroit d'Ormuz reste presque fermé : selon les données maritimes citées par l'ONU, les passages sont environ 65 % sous leur niveau d'avant-guerre, et le Conseil de sécurité s'est réuni le 13 novembre. Les discussions entre l'Iran et les États-Unis se poursuivent, sans cessez-le-feu formel. Au Soudan, faute de financement, l'aide alimentaire recule, et à Gaza l'ONU juge le cessez-le-feu de plus en plus fragile. Les chiffres annuels de 2026 ne paraîtront qu'à l'été 2027 : le score reprend ceux de 2025.",
+      "aSurveiller": "Un accord sur la réouverture d'Ormuz détendrait l'énergie et les prix ; une reprise des frappes contre l'Iran ou de nouveaux incidents en mer pèseraient sur les deux."
+    },
+    "nucleaire": {
+      "date": "2026-11-14",
+      "texte": "Aucun fait nouveau n'a été relevé ces derniers jours sur le contrôle des armes ou sur le programme iranien. Les garde-fous restent affaiblis : plus aucun traité ne limite les arsenaux russe et américain depuis février, l'horloge de l'Apocalypse n'a jamais été aussi proche de minuit, et l'AIEA ne peut plus vérifier le stock d'uranium enrichi de l'Iran. La centrale de Zaporijia, à l'arrêt, dépend toujours de lignes électriques fragiles. Le score ne change pas.",
+      "aSurveiller": "Une reprise des négociations sur le contrôle des armes, le retour des inspecteurs de l'AIEA en Iran, et l'alimentation électrique de la centrale de Zaporijia."
+    },
+    "cyberattaques": {
+      "date": "2026-11-14",
+      "texte": "Aucune nouvelle attaque d'ampleur n'a été relevée en France depuis le 9 novembre, quand la France a attribué à une unité liée aux Gardiens de la révolution iraniens le sabotage des chaînes du froid de quelque 700 magasins en octobre. Ces attaques cherchent à saboter des équipements bien réels, et plus seulement à voler des données. Le score ne change pas : il repose sur les incidents traités par l'ANSSI en 2025. Pour un foyer, l'effet le plus probable reste une panne de service : paiement par carte, téléphone, approvisionnement d'un magasin.",
+      "aSurveiller": "D'éventuelles sanctions européennes après l'attribution des attaques à l'Iran, le bilan de l'exercice national de panne électrique et le Panorama 2026 de l'ANSSI, attendu début 2027."
+    },
+    "terrorisme": {
+      "date": "2026-11-14",
+      "texte": "Aucun nouvel attentat ni projet déjoué n'a été relevé ces derniers jours. Le plan Vigipirate reste au stade « vigilance renforcée » sur tout le territoire, une posture qui couvre aussi les sites touristiques et lieux d'affluence de Noël. La menace reste réelle : attentat à motivation raciste à Trappes en octobre, projet d'attentat à Paris en mars. À l'échelle de l'Union, Europol a recensé moins d'attentats en 2025 qu'en 2024 ; le score ne change pas.",
+      "aSurveiller": "Un passage de Vigipirate au stade « alerte attentat », et les consignes de sécurité pour les marchés de Noël et les fêtes de fin d'année."
     }
   },
   "historique": [
@@ -206,6 +280,20 @@
         "terrorisme": 40,
         "climat": 50,
         "energie": 57.47,
+        "epidemies": 25
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "global": 65.3,
+      "dimensions": {
+        "guerre-europe": 85.22,
+        "conflits-monde": 86.97,
+        "nucleaire": 89.88,
+        "cyberattaques": 86.6,
+        "terrorisme": 40,
+        "climat": 50,
+        "energie": 58.69,
         "epidemies": 25
       }
     }

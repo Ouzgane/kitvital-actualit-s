@@ -1,6 +1,25 @@
 {
-  "maj": "2026-11-13T13:02:52Z",
+  "maj": "2026-11-14T05:11:55Z",
   "entrees": [
+    {
+      "date": "2026-11-13",
+      "theme": "meteo",
+      "portee": "France",
+      "autorite": "Météo-France",
+      "titre": "Météo du week-end : plus frais et sec au nord et retour des pluies au sud",
+      "resume": "Météo-France prévoit samedi des gelées parfois fortes sur un large quart nord-est, jusqu'à -5 °C localement sur les hauteurs du Massif central, puis dimanche une nouvelle perturbation pluvieuse sur tout le pays.",
+      "url": "https://meteofrance.com/actualites/meteo-temps-agite-et-pluvieux-cette-semaine"
+    },
+    {
+      "date": "2026-11-12",
+      "theme": "preparation",
+      "portee": "Luxembourg",
+      "autorite": "Lëtz prepare, portail du gouvernement luxembourgeois (Haut-Commissariat à la Protection nationale)",
+      "titre": "Comprimés d'iodure de potassium : pensez à vérifier que vous en disposez",
+      "resume": "Le Luxembourg invite chacun à vérifier qu'il dispose de comprimés d'iode, distribués gratuitement par les communes, à ne prendre que sur instruction des autorités ; ils ne sont en général pas recommandés après 45 ans.",
+      "url": "https://letzprepare.public.lu/fr/actualites/comprimes-disposition.html",
+      "guide": "accident-nucleaire-iode"
+    },
     {
       "date": "2026-11-12",
       "theme": "sante",
@@ -20,14 +39,13 @@
       "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-12-novembre-2026"
     },
     {
-      "date": "2026-11-12",
-      "theme": "meteo",
-      "portee": "France",
-      "autorite": "Météo-France",
-      "titre": "Météo : temps agité et pluvieux avant une baisse des températures",
-      "resume": "Météo-France annonce avec la dépression Charles des rafales de près de 100 km/h sur les côtes corses et 120 km/h sur le relief, puis des gelées jusqu'à -5 °C localement samedi matin. Suivez la carte de vigilance.",
-      "url": "https://meteofrance.com/actualites/meteo-temps-agite-et-pluvieux-cette-semaine",
-      "guide": "tempete"
+      "date": "2026-11-11",
+      "theme": "sante",
+      "portee": "Monde",
+      "autorite": "Organisation mondiale de la santé (OMS)",
+      "titre": "Allocution d'ouverture du directeur général de l'OMS au point d'information des États membres sur l'épidémie d'Ebola en République démocratique du Congo",
+      "resume": "Page en anglais, titre traduit. L'OMS compte près de 11 000 cas confirmés et plus de 5 300 décès en RDC, dans huit provinces ; l'épidémie reste une urgence de santé publique de portée internationale.",
+      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026"
     },
     {
       "date": "2026-11-10",
